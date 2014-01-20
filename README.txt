@@ -19,9 +19,9 @@ How to Compile:
 
 *)Run via a terminal:
 	*) make
-		 to colpile	
+		 to compile	
 	*) make run
-		to compile and run the programm
+		to compile and run the program
 	*) make jar
 		to make a /.jar file through 	
 	*) make run-jar
