@@ -15,7 +15,7 @@ The IRC bot uses the pircbot irc framework. You can download it from there http:
 
 How to Compile:
 *)Download the library and unzip the file
-*)Move the pircbot.jet to the folder that contains the irc bot. (The folder that contains the IRCBot folder) To be more exact the pircbot.jar mat be together with IRCBot folder but NOT INSIDE it.
+*)Move the pircbot.jar to the folder that contains the irc bot. (The folder that contains the IRCBot folder) To be more exact the pircbot.jar mat be together with IRCBot folder but NOT INSIDE it.
 
 *)Run via a terminal:
 	*) make
